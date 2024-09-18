@@ -1,1 +1,2 @@
 # Exploratory-Data-Analysis
+Welcome to InsightQuest, where data tells its story! This repository focuses on exploratory data analysis (EDA) techniques to uncover patterns, trends, and actionable insights hidden within datasets. From visualizations to statistical summaries, explore various tools and methodologies that help make data-driven decisions faster and smarter. Whether you're cleaning messy data or diving into deep analytics, InsightQuest is your go-to for understanding the underlying narrative of your data!
